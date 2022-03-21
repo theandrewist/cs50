@@ -1,0 +1,11 @@
+sort1 uses: bubble sort
+
+How do you know?: This sort was very slow at sorting reversed data.
+
+sort2 uses: merge sort
+
+How do you know?: It is the fastest in all three categories of data
+
+sort3 uses: selection sort
+
+How do you know?: It was very slow at sorting sorted data, implying it was performing many unecessary steps. Bubble stop is able to break early if the data is already sorted.
